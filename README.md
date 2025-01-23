@@ -39,8 +39,8 @@ project-root/
 └── README.md           # Dokumentacja repozytorium
 ```
 ## Dokumentacja
-- [Raport PDF](raport_z_projektu.pdf)
-- [Prezentacja PDF](prezentacja_tfr.pdf)
+- [Raport PDF](raportzprojektu.pdf)
+- [Prezentacja PDF](prezentacjatfr.pdf)
 
 
 ## Instrukcja uruchomienia
