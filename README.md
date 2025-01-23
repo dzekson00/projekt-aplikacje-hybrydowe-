@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-# nowatorski_projekt
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # Aplikacja Klubu Nocnego - README
 
 ## Opis projektu
@@ -56,4 +38,32 @@ project-root/
 ├── pubspec.yaml        # Plik konfiguracji projektu Flutter
 └── README.md           # Dokumentacja repozytorium
 ```
->>>>>>> 1da343f4ab83472b4fce99ac306a061ab163ab5e
+## Dokumentacja
+- [Raport PDF](raport_z_projektu.pdf)
+- [Prezentacja PDF](prezentacja_tfr.pdf)
+
+
+## Instrukcja uruchomienia
+1. Sklonuj repozytorium na swój komputer:
+   ```bash
+   git clone <URL_REPOZYTORIUM>
+   ```
+2. Przejdź do katalogu projektu:
+   ```bash
+   cd project-root
+   ```
+3. Zainstaluj zależności:
+   ```bash
+   flutter pub get
+   ```
+4. Uruchom aplikację w trybie debugowania:
+   ```bash
+   flutter run
+   ```
+
+## Autor
+Imię i nazwisko: Jakub Grzyb 
+Numer indeksu: 49482  
+
+## Licencja
+Projekt udostępniany na licencji MIT. Szczegóły znajdują się w pliku LICENSE.
