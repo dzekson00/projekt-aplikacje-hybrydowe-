@@ -65,5 +65,3 @@ project-root/
 Imię i nazwisko: Jakub Grzyb 
 Numer indeksu: 49482  
 
-## Licencja
-Projekt udostępniany na licencji MIT. Szczegóły znajdują się w pliku LICENSE.
