@@ -38,28 +38,3 @@ project-root/
 ├── pubspec.yaml        # Plik konfiguracji projektu Flutter
 └── README.md           # Dokumentacja repozytorium
 ```
-
-## Instrukcja uruchomienia
-1. Sklonuj repozytorium na swój komputer:
-   ```bash
-   git clone <URL_REPOZYTORIUM>
-   ```
-2. Przejdź do katalogu projektu:
-   ```bash
-   cd project-root
-   ```
-3. Zainstaluj zależności:
-   ```bash
-   flutter pub get
-   ```
-4. Uruchom aplikację w trybie debugowania:
-   ```bash
-   flutter run
-   ```
-
-## Autor
-Imię i nazwisko: [Twoje imię i nazwisko]  
-Numer indeksu: [Twój numer indeksu]  
-
-## Licencja
-Projekt udostępniany na licencji MIT. Szczegóły znajdują się w pliku LICENSE.
